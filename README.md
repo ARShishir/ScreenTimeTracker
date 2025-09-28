@@ -8,6 +8,7 @@ ScreenTimeTracker is a Chrome extension that helps users monitor and track how m
 - [Usage](#usage)
 - [Permissions & Privacy](#permissions--privacy)
 - [Contribution & Credit](#contribution--credit)
+- [Demo Screenshots](#demo-screenshots)
 - [Roadmap & Future Enhancements](#roadmap--future-enhancements)
 - [License](#license)
 - [Support / Contact](#support--contact)
@@ -79,6 +80,14 @@ Please give credit or attribution if you borrow code or ideas.
 If you use ScreenTimeTracker in your own project or publication, I'd appreciate a mention, for example:
 
 > “Powered by ScreenTimeTracker — ARShishir”
+
+## Demo Screenshots
+
+### Picture One
+<img width="695" height="518" alt="ScreenTimeTracker01" src="https://github.com/user-attachments/assets/0ebd13c5-c6b2-49b1-8a8d-14f7210b3f62" />
+
+### Picture Two
+<img width="692" height="588" alt="ScreenTimeTracker02" src="https://github.com/user-attachments/assets/d207a1b6-2f00-41ff-b52d-de6443824f44" />
 
 
 ## Roadmap & Future Enhancements
