@@ -1,0 +1,2 @@
+# ScreenTimeTracker
+ScreenTimeTracker Chrome Extension
